@@ -26,3 +26,16 @@ Medium (Priority level 2): tasks with moderate importance.
 Low (Priority level 1): tasks that can be addressed with lower urgency.
 
 No priority (Priority level 0):  tasks without any specific priority assigned.
+
+*ScreenShot*
+1. Group by User 
+![image](https://github.com/ri1wik/Quickshell_OA-Ritwik/assets/76686646/1a4f2945-62fc-4176-85dc-c219ad581021)
+2. By Status
+ ![image](https://github.com/ri1wik/Quickshell_OA-Ritwik/assets/76686646/bb7f491b-c672-4d58-ba5f-4d849cdc1769)
+3. By Priority
+![image](https://github.com/ri1wik/Quickshell_OA-Ritwik/assets/76686646/8ef75f4b-58de-478b-91e7-1957f63b04ab)
+
+
+   
+
+
