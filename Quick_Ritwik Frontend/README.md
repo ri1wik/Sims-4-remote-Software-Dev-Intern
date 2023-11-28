@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+NetLify 
+Live Link: https://quickshell-ritwik-frontend.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Functions Of App
+Three unique methods for grouping the data should be provided by the application:
 
-## Available Scripts
 
-In the project directory, you can run:
+Sort tickets into groups according to their status, such as "Open," "In Progress," "Closed," or any other pertinent state.
 
-### `npm start`
+By User: Sort tickets based on the designated user. This makes it simple to monitor each person's workload and spot possible bottlenecks.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Sort tickets into groups according to their priority, for example, "Urgent," "High," "Medium," "Low," or "No priority." This guarantees that important jobs are attended to right away.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Also, users ought to have two options for sorting the tickets that are displayed:
 
-### `npm test`
+Priority: Sort tickets into lower and lower priority groups. This guarantees that important jobs are visible at the top of the list and gives them priority.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The priority levels for the tickets should be clearly indicated : 
 
-### `npm run build`
+Urgent (Priority level 4):  to signify immediate attention required.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+High (Priority level 3): tasks that should be addressed promptly.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Medium (Priority level 2): tasks with moderate importance.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Low (Priority level 1): tasks that can be addressed with lower urgency.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+No priority (Priority level 0):  tasks without any specific priority assigned.
