@@ -1,2 +1,3 @@
-# Quickshell_OA-Ritwik
-College campus hiring assignment for the students. 
+# Sims-4 (remote)
+class diagram and header file in java 
+Fixed bugs
